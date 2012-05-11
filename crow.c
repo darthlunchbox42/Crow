@@ -1,11 +1,6 @@
-/*
- * ----------------------------------------------------------------------------
- * "THE BEER-WARE LICENSE" (Revision 42):
- * <spoor42@gmx.us> wrote this file. As long as you retain this notice you
- * can do whatever you want with this stuff. If we meet some day, and you think
- * this stuff is worth it, you can buy me a beer in return Stephen Poorman
- * ----------------------------------------------------------------------------
-*/
+//Currently this is built from the xcb tutorial found here:
+//http://cgit.freedesktop.org/xcb/libxcb/plain/doc/tutorial/index.html
+//As such, not a lot here is mine. :/
 #include <stdlib.h>
 #include <stdio.h>
 #include <xcb/xcb.h>
